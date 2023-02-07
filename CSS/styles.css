@@ -1,0 +1,21 @@
+/* Made a different stylesheet so that the code will be distinguished*/ 
+.toolbar {
+        display: flex;
+        background-color: #f2f2f2;
+        padding: 10px;
+}
+
+.toolbar button {
+        background-color: transparent;
+        border: none;
+        cursor: pointer;
+}
+
+.editor {
+        background-color: white;
+        border: 1px solid #ccc;
+        min-height: 300px;
+        min-width: none;
+        padding: 10px;
+        box-sizing: border-box;
+}
